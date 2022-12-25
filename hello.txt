@@ -1,1 +1,1 @@
-my secong git repository
+my new secong git repository
